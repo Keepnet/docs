@@ -2,7 +2,7 @@
 
 Quantifying your organisation’s vulnerability to phishing attacks and cyber threats, in general, means nothing if you don’t have a process in place to make improvements through education.
 
-![Awareness Educator](https://www.keepnetlabs.com/wp-content/uploads/keepnet-awareness-educator.png)
+<img align="right" alt="Awareness Educator" src="https://www.keepnetlabs.com/wp-content/uploads/keepnet-awareness-educator.png">
 
 At Keepnet, we understand this and have developed cutting-edge training which can be targeted and on-demand via our [Awareness Educator](https://www.keepnetlabs.com/awareness-educator/) module.
 

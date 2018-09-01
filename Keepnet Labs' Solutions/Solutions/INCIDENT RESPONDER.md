@@ -2,7 +2,7 @@
 
 Even with the best technologies in place, it’s important to prepare for malware that slips through your traditional security systems and reaches your inbox.
 
-![Incident Responder](https://www.keepnetlabs.com/wp-content/uploads/keepnet-incident-responder.png)
+<img align="right" alt="Incident Responder" src="https://www.keepnetlabs.com/wp-content/uploads/keepnet-incident-responder.png">
 
 Our [Phishing Simulator](https://www.keepnetlabs.com/anti-phishing-solutions/phishing-simulator/) and [Awareness Educator](https://www.keepnetlabs.com/anti-phishing-solutions/awareness-educator/) modules minimize your employees’ susceptibility, and our [Email Threat Simulator](http://github.com) module proactively reduces the volume of inbox events.
 

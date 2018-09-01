@@ -2,7 +2,7 @@
 
 Phishing has become a huge threat to businesses and consumers worldwide, and the number of recorded phishing attacks continues to grow exponentially. It’s predicted that by 2020 phishing will be the number 1 cyber-threat to your organisation.
 
-![Phishing Simulator](https://www.keepnetlabs.com/wp-content/uploads/keepnet-phishing-simulator.png)
+<img align="right" alt="Phishing Simulator" src="https://www.keepnetlabs.com/wp-content/uploads/keepnet-phishing-simulator.png">
 
 Due to the nature of phishing, your colleagues and employees have become the weak link in your cybersecurity.
 
