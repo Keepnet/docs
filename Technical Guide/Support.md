@@ -8,7 +8,7 @@ When you click on this icon, you can see many different options such as tour, do
 
 ![](https://www.keepnetlabs.com/wp-content/uploads/Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-2018-07-09-13-21-32.png)
 
-<img align="right" alt="Support tool features" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="center" alt="Support tool features" width="100" height="100" src="https://www.keepnetlabs.com/wp-content/uploads/Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-2018-07-09-13-21-32.png">
 
 * Tour: With this option, it is practical to observe all details of Keepnet. You can start a tour to see our solutions and services.  
 * Documentation: You can reach to the document on Keepnet Labs like User Manuel.
