@@ -5,15 +5,38 @@ Visit Company > SMTP Setting List > New SMTP page and define the email servers t
 
 [SMTP Settings](https://www.keepnetlabs.com/wp-content/uploads/SMTP-Setting-1024x849.png)
 
-Settings	Description
-SMTP Name	This is the name that will be listed in SMTP list page as a reminder name.
-SMTP Type	This is the type of the SMTP. When using the corporate server, it may remain default. It can bring the settings of Gmail, Outlook etc. services predefined for convenience.
-SMTP Server Address	SMTP server’s DNS name or IP address and port number.
-Authentication	The field where the requested username and password values are defined. If your SMTP server requires authentication, you should mark the Authentication box.
-Use SSL	If email service supports or necessitates SSL connection, you can use this option.
-Reply To	It is the e-mail address for responses to return, except sender e-mail address.
-Error To	The e-mail address errors will be delivered.  
-CC	E-mail address to keep in CC in the sent e-mails.
-BCC	Blind carbon copy to tertiary recipients who receive the message. The primary and secondary recipients cannot see the tertiary recipients.
-X-Mailler	The value to be selected as the sender e-mail.
-Custom Header	Custom header option is there to add additional options to the sent e-mail header information.  Sometimes, security checks are needed.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Tables</th>
+      <th align="center">Are</th>
+      <th align="right">Cool</th>
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td align="center">right-aligned</td>
+      <td align="right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td align="center">centered</td>
+      <td align="right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td align="center">are neat</td>
+      <td align="right">$1</td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td align="center">See the list</td>
+      <td align="right">from the first column</td>
+    </tr>
+  </tbody>
+</table>
