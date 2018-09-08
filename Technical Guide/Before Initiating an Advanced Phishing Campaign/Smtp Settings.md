@@ -59,6 +59,6 @@ Visit Company > SMTP Setting List > New SMTP page and define the email servers t
   </tbody>
 </table>
 
-Table 1. SMTP Settings and Descriptions
+**Table 1. SMTP Settings and Descriptions**
 
 Important Note: During simulation activities, since sender domain names would be different, it is important for SMTP servers to authorise sending e-mail from different domains.  In this case, we suggest adding to the list relay-host of Keepnet’s IP address’ SMTP server.
