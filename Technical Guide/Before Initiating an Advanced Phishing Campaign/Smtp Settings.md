@@ -3,7 +3,7 @@ You can define the email server that the phishing campaign will be sent.
 
 Visit Company > SMTP Setting List > New SMTP page and define the email servers to be used.
 
-[SMTP Settings](https://www.keepnetlabs.com/wp-content/uploads/SMTP-Setting-1024x849.png)
+![SMTP Settings](https://www.keepnetlabs.com/wp-content/uploads/SMTP-Setting-1024x849.png)
 
 
 <table>
