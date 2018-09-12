@@ -33,9 +33,11 @@ It is possible to see the training grades with View Grade button.
         <tr>
       <td align="left">Phishing Score</td>
       <td align="left">It represents the sum of Opened, Clicked, and Captured data.
-* Opened 20 %
-* Clicked 30 %
-* Captured’in 50 %</td>
+<li> Opened 20 % </li>
+<li>* Clicked 30 % </li>
+<li>* Captured’in 50 % </li>
+
+</td>
     </tr>
         <tr>
       <td align="left">Training Score</td>
