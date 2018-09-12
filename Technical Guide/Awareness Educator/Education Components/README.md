@@ -75,4 +75,4 @@ To help your organization combat social engineers, we have innovative videos com
 Our Cybersecurity **awareness training** video contents are presented to users in many different languages including French, English, Japanese, Russian and Turkish. See the video samples below.
 
 ## Risks
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=QG06TpucN5A)
+[![Risks](https://s22.postimg.cc/nsm3a2qqp/Screenshot_2.png)](https://www.youtube.com/watch?v=QG06TpucN5A)
