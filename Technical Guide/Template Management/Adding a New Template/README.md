@@ -39,3 +39,15 @@ The name of the template to be created is specified in this step. With Template 
 ![Template Editing Page](https://www.keepnetlabs.com/wp-content/uploads/Template-Editing-Page-1024x505.png)
 
 You can edit the links, name, mailing details in the e-mail content, and assign a Phishing URL by clicking on{PHISHING_URL}the link above box.
+
+![Generating a phishing URL](https://www.keepnetlabs.com/wp-content/uploads/Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-2018-07-20-16-58-46-e1532095432776-1024x256.png)
+
+If you click on {PHISHING_URL} the box like the picture above, you will see an empty phishing URL on the email content. When you right-click on the link you will see the edit the link or unlink options. 
+
+![Editing the phishing URL](https://www.keepnetlabs.com/wp-content/uploads/Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-2018-07-20-17-06-13-e1532095883256-1024x430.png)
+
+![Defining a phishing URL](https://www.keepnetlabs.com/wp-content/uploads/PHISHING_URL--1024x657.png)
+
+After this editing, whatever the Phishing URL is to be defined in the Campaign Manager, the fake web page will be opened on that same URL.
+
+Shortcuts contain abbreviations such as name, surname, and target e-mails. {TONAME} shortcut automatically adds the target users’ e-mails to each sent e-mail content. It is the same with {TO} parameter. Thus, whatever email, name and surname information is identified in Email Groups, it will appear in the phishing email you have created. 
