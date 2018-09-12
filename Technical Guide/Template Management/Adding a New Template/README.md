@@ -7,7 +7,7 @@ An example of creating a template is demonstrated below.
 ![Original email](https://www.keepnetlabs.com/wp-content/uploads/Original-email-1024x724.png)
 
 <p align="center">
-  <img src="https://www.keepnetlabs.com/wp-content/uploads/image8.png">
+  <img src="https://www.keepnetlabs.com/wp-content/uploads/image8.png"><br>
   File with email.eml file extension content
 </p>
 
@@ -18,7 +18,7 @@ With your browser’s “view source” feature, you can access to the HTML code
 ![Original webpage](https://www.keepnetlabs.com/wp-content/uploads/Original-webpage-1024x522.png)
 
 <p align="center">
-  <img src="https://www.keepnetlabs.com/wp-content/uploads/Source-code-of-the-original-file.png">
+  <img src="https://www.keepnetlabs.com/wp-content/uploads/Source-code-of-the-original-file.png"><br>
   The source code of the original file
 </p>
 
