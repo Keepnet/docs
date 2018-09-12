@@ -3,6 +3,7 @@
 According to the results of your  Phishing campaign or according to your routine, it is possible to assign training. See the following chart. 
 
 ![](https://www.keepnetlabs.com/wp-content/uploads/Education-Assignment-Options-According-to-Results.png)
+
 ***Education Assignment Options According to Results***
 
 Education can be assigned according to the results of a completed phishing test on the basis of users showing action or for all users in your target list.
@@ -10,6 +11,7 @@ Education can be assigned according to the results of a completed phishing test 
 There are two options for assigning the education in the Education list
 
 ![](https://www.keepnetlabs.com/wp-content/uploads/Users-Filtering-1024x616.png)
+
 ***Users filtering for the training assignment***
 
 ## Education Assignment According to Campaign Finish Date
