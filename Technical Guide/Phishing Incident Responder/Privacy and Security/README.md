@@ -2,7 +2,7 @@
 
 Many institutions are unable to record the details of users’ email traffic (like body, attachment, etc.) without their permission. Also, due to the regulations, they cannot investigate users’  inbox and cannot delete unwanted emails without their permission.
 
-Keepnet add-in applies the separation of duties principle with reference to the concept of zero-trust1 and can create a workflow by the corporate policy. For example, a person to investigate may first get authorisation and then start working. And in delete process of email, the person can need another authorisation mechanism.
+Keepnet add-in applies the separation of duties principle with reference to the concept of zero-trust¹ and can create a workflow by the corporate policy. For example, a person to investigate may first get authorisation and then start working. And in delete process of email, the person can need another authorisation mechanism.
 
 Besides, as no one has access to the content of users email, the privacy will not be violated.
 
