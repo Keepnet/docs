@@ -6,5 +6,5 @@ Keepnet logs the whole investigation and response operations in the most detaile
 
 ***The investigation and response operation log in audit menu***
 
-1. You can see these logs in the Incident Responder> Audit menu. Find out more [https://dashboard.keepnetlabs.com/Modules/OutlookAddIn/OutlookAddInLog.aspx](https://dashboard.keepnetlabs.com/Modules/OutlookAddIn/OutlookAddInLog.aspx)
+¹ You can see these logs in the Incident Responder> Audit menu. Find out more [https://dashboard.keepnetlabs.com/Modules/OutlookAddIn/OutlookAddInLog.aspx](https://dashboard.keepnetlabs.com/Modules/OutlookAddIn/OutlookAddInLog.aspx)
 
