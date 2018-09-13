@@ -49,7 +49,7 @@ When you have logged in to the [Keepnet Labs management interface](https://dashb
       <td align="left">Put a logo for your Add-In</td>
     </tr>
   </tbody>
-
+</table>
 ## Other Optional Features
 <table>
   <tbody>
