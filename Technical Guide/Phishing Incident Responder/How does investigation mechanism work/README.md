@@ -23,14 +23,14 @@ With its existing analysis engines as well as its integrated 3rd party analysis 
 	2. Anomaly detection: It identifies evasion techniques1 performed to circumvent security measures and also blocks the emails outside of the RFC2 rules and standards.
 	3. Typosquatting: It identifies the fake sender and prevents the user from fraud
 
-	* Body
+* Body
 
 	1. URL reputation control
 	2. Malicious content detection
 	3. The detection of the suspicious content with the artificial intelligence.
 	4. Domain Squatting
 
-	* Attachment
+* Attachment
 
 	1. Known malware control with Antivirus services
 	2. Detection of unknown malware with Anti Malware Sandbox technology
