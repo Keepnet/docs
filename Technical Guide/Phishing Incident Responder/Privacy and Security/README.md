@@ -10,4 +10,4 @@ Besides, as no one has access to the content of users email, the privacy will no
 
 ***Warning message; stating no one has the right to view mail content***
 
-1. Zero Trust is a security concept centred on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access. For more detail visit [https://bit.ly/2FEIkEa](https://bit.ly/2FEIkEa)
+¹ Zero Trust is a security concept centred on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access. For more detail visit [https://bit.ly/2FEIkEa](https://bit.ly/2FEIkEa)
