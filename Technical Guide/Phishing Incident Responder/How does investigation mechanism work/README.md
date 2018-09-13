@@ -17,7 +17,7 @@ It carries out an investigation and response according to the data coming from t
 
 With its existing analysis engines as well as its integrated 3rd party analysis services, Keepnet addresses an email component in three ways and performs detailed analysis according to the following steps:
 
-	* Header
+* Header
 
 	1. Spam control with integrated antispam services
 	2. Anomaly detection: It identifies evasion techniques1 performed to circumvent security measures and also blocks the emails outside of the RFC2 rules and standards.
