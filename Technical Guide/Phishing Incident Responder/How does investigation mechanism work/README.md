@@ -48,34 +48,31 @@ With its existing analysis engines as well as its integrated 3rd party analysis 
       <td align="left">URL Reputation</td>
       <td align="left">It checks through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites. This integration helps you identify sites involved in malware incidents, fraudulent activities and phishing websites.</td>
     </tr>
-        <tr>
+    <tr>
       <td align="left">Sandbox</td>
-      <td align="left">Sandboxing offers another way for antimalware software to detect malware. A sandbox is an isolated computing environment developed to run unknown applications and prevent them from affecting the underlying system. Antimalware programs that use sandboxing run suspicious or previously unknown programs in a sandbox and monitor the results. If the malware demonstrates malicious behaviour, the antimalware will terminate it.
-      </td>
+      <td align="left">Sandboxing offers another way for antimalware software to detect malware. A sandbox is an isolated computing environment developed to run unknown applications and prevent them from affecting the underlying system. Antimalware programs that use sandboxing run suspicious or previously unknown programs in a sandbox and monitor the results. If the malware demonstrates malicious behaviour, the antimalware will terminate it.</td>
     </tr>
-        <tr>
+    <tr>
       <td align="left">File Reputation</td>
-      <td align="left">It protects against zero-day and targeted file-based threats by:<br>
+      <td align="left">It protects against zero-day and targeted file-based threats by:
 		<li>Obtaining the reputation of known files.</li>
-
 		<li>Analyzing the behaviour of specific files that are not yet known to the reputation service.</li>
-
 		<li>Continuously evaluating emerging threats as new information becomes available</li>
-		</td>
+	</td>
     </tr>
     <tr>
       <td align="left">Antivirus Engines</td>
       <td align="left">It is a software module that is purpose-built to find and remove malicious code.</td>
     </tr>
-        <tr>
+    <tr>
       <td align="left">Investigative Engines</td>
       <td align="left">The services that allow you to do an in-depth incident investigation.</td>
     </tr>
-        <tr>
+    <tr>
       <td align="left">Forensic Engines</td>
       <td align="left">It includes various forensics methods regarding in-depth forensic analysis.</td>
     </tr>
-        <tr>
+    <tr>
       <td align="left">DNS Firewall</td>
       <td align="left">DNS Firewall works by employing DNS Response Policy Zones (RPZs) and actionable threat intelligence to prevent data exfiltration.</td>
     </tr>
