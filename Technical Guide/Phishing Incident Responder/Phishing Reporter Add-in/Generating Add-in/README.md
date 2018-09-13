@@ -50,9 +50,15 @@ When you have logged in to the [Keepnet Labs management interface](https://dashb
     </tr>
   </tbody>
 </table>
+
 ## Other Optional Features
+
 <table>
   <tbody>
+    <tr>
+      <th>Item</th>
+      <th align="center">Description</th>
+    </tr>
     <tr>
       <td align="left">Reporting</td>
       <td align="left">Blind carbon copy to tertiary recipients who receive the message. The primary and secondary recipients cannot see the tertiary recipients.</td>
