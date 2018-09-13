@@ -51,18 +51,17 @@ With its existing analysis engines as well as its integrated 3rd party analysis 
         <tr>
       <td align="left">Sandbox</td>
       <td align="left">Sandboxing offers another way for antimalware software to detect malware. A sandbox is an isolated computing environment developed to run unknown applications and prevent them from affecting the underlying system. Antimalware programs that use sandboxing run suspicious or previously unknown programs in a sandbox and monitor the results. If the malware demonstrates malicious behaviour, the antimalware will terminate it.
-
-
       </td>
     </tr>
         <tr>
       <td align="left">File Reputation</td>
       <td align="left">It protects against zero-day and targeted file-based threats by:<br>
-<li>Obtaining the reputation of known files.</li>
+		<li>Obtaining the reputation of known files.</li>
 
-<li>Analyzing the behaviour of specific files that are not yet known to the reputation service.</li>
+		<li>Analyzing the behaviour of specific files that are not yet known to the reputation service.</li>
 
-<li>Continuously evaluating emerging threats as new information becomes available</li></td>
+		<li>Continuously evaluating emerging threats as new information becomes available</li>
+		</td>
     </tr>
     <tr>
       <td align="left">Antivirus Engines</td>
